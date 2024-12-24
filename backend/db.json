@@ -1,0 +1,37 @@
+{
+  "users": [
+    {
+      "username": "Saroj Kanvadiya",
+      "email": "sarojkanvadiya@gmail.com",
+      "password": "1234",
+      "gender": "female",
+      "mobile": "1234567890",
+      "id": 1
+    },
+    {
+      "username": "",
+      "email": "",
+      "password": "",
+      "gender": "",
+      "mobile": "",
+      "id": 2
+    },
+    {
+      "username": "sa",
+      "email": "sarojk@123",
+      "password": "1",
+      "gender": "male",
+      "mobile": "34",
+      "id": 3
+    },
+    {
+      "username": "sa",
+      "email": "saroj@123",
+      "password": "6",
+      "gender": "male",
+      "mobile": "7",
+      "id": 4
+    }
+  ],
+  "todos": []
+}
